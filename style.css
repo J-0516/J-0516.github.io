@@ -25,7 +25,7 @@ body {
 /* 상단 제목 영역 */
 .header {
     text-align: center;
-    margin-bottom: 240px;
+    margin-bottom: 60px;
 }
 
 .header h1{
@@ -41,7 +41,7 @@ body {
 /* 메인 컨테이너 (노선처럼 폭 좁게) */
 .container {
     width: 100%;
-    max-width: 1260px;
+    max-width: 760px;
 }
 
 /* 카드 공통 스타일 */
@@ -169,4 +169,5 @@ body {
     }
 
 }
+
 
