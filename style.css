@@ -41,7 +41,7 @@ body {
 /* 메인 컨테이너 (노선처럼 폭 좁게) */
 .container {
     width: 100%;
-    max-width: 360px;
+    max-width: 1260px;
 }
 
 /* 카드 공통 스타일 */
@@ -169,3 +169,4 @@ body {
     }
 
 }
+
